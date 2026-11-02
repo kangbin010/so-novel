@@ -9,7 +9,7 @@ on:
         default: 'arm64'
 
 env:
-  ACR_REGISTRY: registry.cn-shenzhen.aliyuncs.com
+  ACR_REGISTRY: crpi-bmp6dgle5p1egr1w.cn-shenzhen.personal.cr.aliyuncs.com
   # ↓↓↓ 改成你自己的 ACR 命名空间（ACR 控制台 → 命名空间 里的名字）
   ACR_NAMESPACE: ugreen_kangbin
   IMAGE_NAME: sonovel
